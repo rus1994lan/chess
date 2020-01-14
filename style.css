@@ -1,0 +1,318 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.chess {
+    background-image: url(img_chess/chess1.jpg);
+    position: relative;
+    width: 730px;
+    height: 730px;
+    background-size: cover;
+}
+
+.black {
+    position: absolute;
+}
+
+.bK {
+    top: 12px;
+    left: 285px;
+}
+
+.bQ {
+    top: 12px;
+    left: 372px;
+}
+
+.bN {
+    top: 12px;
+    left: 192px;
+}
+
+.bN1 {
+    top: 12px;
+    right: 192px;
+}
+
+.bR {
+    top: 12px;
+    left: 8px;
+}
+
+.bR1 {
+    top: 12px;
+    right: 8px;
+}
+
+.bB {
+    top:12px;
+    left: 105px;
+}
+
+.bB1 {
+    top:12px;
+    right: 100px;
+}
+
+.bP1 {
+    top: 100px;
+    left: 285px;
+}
+
+.bP2 {
+    top: 100px;
+    left: 372px;
+}
+
+.bP3 {
+    top:100px ;
+    left: 192px;
+}
+
+.bP4 {
+    top: 100px;
+    left: 8px;
+}
+
+.bP5 {
+    top: 100px;
+    right: 8px;
+}
+
+.bP6 {
+    top: 100px;
+    left: 105px;
+}
+
+.bP7 {
+    top: 100px;
+    right: 100px;
+}
+
+.bP8 {
+    top: 100px;
+    right: 192px;
+}
+
+.white {
+    position: absolute;
+}
+
+.wK {
+    bottom: 10px;
+    left: 285px;
+}
+
+.wQ {
+    bottom: 10px;
+    left: 372px;
+}
+
+.wN {
+    bottom: 10px;
+    left: 192px;
+}
+
+.wN1 {
+    bottom: 10px;
+    right: 192px;
+}
+
+.wR {
+    bottom: 8px;
+    left: 8px;
+}
+
+.wR1 {
+    bottom: 8px;
+    right: 8px;
+}
+
+.wB {
+    bottom:10px;
+    left: 105px;
+}
+
+.wB1 {
+    bottom:10px;
+    right: 100px;
+}
+
+.wP1 {
+    bottom: 100px;
+    left: 285px;
+}
+
+.wP2 {
+    bottom: 100px;
+    left: 372px;
+}
+
+.wP3 {
+    bottom:100px ;
+    left: 192px;
+}
+
+.wP4 {
+    bottom: 100px;
+    left: 8px;
+}
+
+.wP5 {
+    bottom: 100px;
+    right: 8px;
+}
+
+.wP6 {
+    bottom: 100px;
+    left: 105px;
+}
+
+.wP7 {
+    bottom: 100px;
+    right: 100px;
+}
+
+.wP8 {
+    bottom: 100px;
+    right: 192px;
+}
+
+.checkers {
+    background-image: url(img_chess/chess1.jpg);
+    position: relative;
+    width: 730px;
+    height: 730px;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+.checkers img {
+    width: 80px;
+}
+
+.checkers div {
+    position: absolute;
+}
+
+
+.black1 {
+    top: 12px;
+    right: 10px;
+}
+
+.black2 {
+    top: 192px;
+    right: 10px;
+}
+
+.black3 {
+    top: 102px;
+    right: 102px;
+}
+
+.black4 {
+    top: 12px;
+    right: 191px;
+}
+
+.black5 {
+    top: 192px;
+    right: 191px;
+}
+
+.black6 {
+    top: 102px;
+    right: 279px;
+}
+
+.black7 {
+    top: 12px;
+    right: 369px;
+}
+
+.black8 {
+    top: 192px;
+    right: 369px;
+}
+
+.black9 {
+    top: 102px;
+    right: 458px;
+}
+
+.black10 {
+    top: 12px;
+    right: 547px;
+}
+
+.black11 {
+    top: 192px;
+    right: 547px;
+}
+
+.black12 {
+    top: 102px;
+    right: 636px;
+}
+
+.white1 {
+    bottom: 7px;
+    left: 11px;
+}
+
+.white2 {
+    bottom: 186px;
+    left: 11px;
+}
+
+.white3 {
+    bottom: 97px;
+    left: 103px;
+}
+
+.white4 {
+    bottom: 7px;
+    left: 192px;
+}
+
+.white5 {
+    bottom: 186px;
+    left: 192px;
+}
+
+.white6 {
+    bottom: 97px;
+    left: 280px;
+}
+
+.white7 {
+    bottom: 7px;
+    left: 370px;
+}
+
+.white8 {
+    bottom: 186px;
+    left: 370px;
+}
+
+.white9 {
+    bottom: 97px;
+    left: 459px;
+}
+
+.white10 {
+    bottom: 7px;
+    left: 548px;
+}
+
+.white11 {
+    bottom: 186px;
+    left: 548px;
+}
+
+.white12 {
+    bottom: 97px;
+    left: 639px;
+}
